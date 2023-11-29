@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+   
+    
+}
+
+h1{
+    background-image: url("images/nature.jpg");
+    background-size: cover;
+    text-align: center;
+}
+h2{
+    color: brown;
+}
+
+.im{
+    
+    
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+    
+    
+}
