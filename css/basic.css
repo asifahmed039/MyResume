@@ -17,7 +17,6 @@ h2{
 .about{
     color:black;
     font-size: medium;
-    
 }
 
 .im{
@@ -28,4 +27,14 @@ h2{
     width: 300px;
     
     
+}
+.fff h1,h2{
+    color: brown;
+    text-align: left;
+    margin-left: 5px;
+}
+
+.fff h2{
+    color: black;
+    margin-left: 20px;
 }
