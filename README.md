@@ -1,4 +1,4 @@
 # MyResume
 <b>Asif Ahmed</b><br>
-<hr>
+< style="color:red;" hr>
 My resume from complete web Development course.
